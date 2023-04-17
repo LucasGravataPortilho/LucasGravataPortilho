@@ -3,6 +3,7 @@
 - 🌱 Atualmente estou estudando desenvolvimento web na trybe
 - 💻 Sou Desenvolvedor Front-End e apaixonado por tecnologia
 - 😄 Pronouns: ele/dele
+- 📫 How to reach me: lucasportilho18@gmail.com
 
   <h1 align="center">📊 GitHub Stats</h1>
 
