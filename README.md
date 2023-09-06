@@ -23,6 +23,7 @@
   <img alt="RTL" height="50" width="40" src="https://testing-library.com/img/logo-large.png" alt="rtl icon" />
   <img alt="REDUX" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img alt="DOCKER" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
 </div>
    
   <h1 align="center">🌐 Social Medias</h1>
