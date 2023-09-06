@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Portilho
 
-- 🌱 Atualmente estou estudando desenvolvimento web na trybe
-- 💻 Sou Desenvolvedor Front-End e apaixonado por tecnologia
+- 🌱 Atualmente sou formado em Desenvolvimento Web na Trybe
+- 💻 Sou Desenvolvedor FullStack e apaixonado por tecnologia
 - 😄 Pronouns: ele/dele
 - 📫 How to reach me: lucasportilho18@gmail.com
 
